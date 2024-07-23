@@ -1,4 +1,10 @@
+ <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> 
+<img align="center" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+
+
+
 ## Olá, Eu sou o João Victor
+
 
 - 📚 Hoje estou cursando o primeiro ano do ensino médio. Na área da programação estudo front-end.
 - 💻 programando...
